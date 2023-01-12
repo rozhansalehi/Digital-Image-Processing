@@ -31,7 +31,7 @@ Various operations for enhancing the images
 
 ### 2. Transform function for increasing contrast
 
-## HW3: Spacial Filtering
+## HW3: Spatial Filtering
 ### 1. Edge-detecting filters
 - Padding the input image
 - Defining mean, median, Sobel, and laplacian kernels
@@ -48,10 +48,10 @@ Various operations for enhancing the images
 ## HW4: Frequency Domain Filtering
 - Preserving the intensity boundaries during filtering
 - Stretching and clipping
-- Spacial information in phase image of Fourier transform
+- Spatial information in phase image of Fourier transform
 
 ## HW5: Restoration and Morphology
-### 1. Removing spacial-pattern noise
+### 1. Removing spatial-pattern noise
 - Identifying noise in the Fourier transformation of the image
 - Applying a notch filter
 - Getting inverse Fourier transform
